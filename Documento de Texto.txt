@@ -1,0 +1,16 @@
+Las bases datos nos permiten recopilar, almacenar y organizar información; sobre personas, productos, y otros tipos de datos.
+ Se han manejado desde siempre como la agrupación de información textual y numérica con propósitos y reglas que le aportaban un orden. 
+Dentro de las bases de datos multimedia, este contenido adquiere un significado más específico.
+
+
+En Concepto las BDMM se relacionan con SGBD relaciónales y orientadas a objetos; En conjunto son una gama de distintos tipo de medios,
+ implicando gestionar, almacenar y recuperar estos mismos. Son redes creadas que proporcionan una búsqueda eficiente de ficheros e información multimedia,
+ ofrecen técnicas de compresión y descompresión adecuadas, simplifican las conexiones entre documentos o grupos de datos, son de acceso sencillo para los usuarios,
+ y son también ideales a la hora de crear redes de telecomunicaciones de alta velocidad.
+
+Hablamos también del acoplamiento.
+En el enfoque de un acoplamiento débil el DBMS utiliza sólo la gestión de los metadatos, 
+y un gestor de archivos multimedia se utiliza para gestionar los datos multimedia.
+ Luego está la integración de un módulo para el DBMS y el gestor de archivos multimedia. 
+El MM-DBMS consiste de tres módulos: el DBMS, el Metadato, el Gestor de Archivos Multimedia y el módulo de integración de ambos. 
+La ventaja de la pérdida de acoplamiento es que uno puede utilizar los diversos sistemas de archivos multimedia para gestionar los datos multimedia.
